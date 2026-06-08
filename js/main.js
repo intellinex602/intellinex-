@@ -156,7 +156,7 @@ const ChatWidget = {
     security: "Our cybersecurity services cover threat detection, SOC monitoring, penetration testing, compliance management (ISO 27001, SOC2, GDPR), and incident response. We protect your business 24/7.",
     hardware: "We procure, deploy, and maintain enterprise hardware including servers, networking equipment, workstations, and peripherals. We partner with Dell, HP, Cisco, and other top vendors.",
     software: "Our software development team builds custom enterprise applications, web platforms, mobile apps, and system integrations using modern tech stacks. We follow agile methodology with full transparency.",
-    contact: "You can reach us at: 📧 info@Intellinex.tech | 📞 +1 (800) Intellinex | 🏢 123 Tech Plaza, Silicon Valley, CA. Or fill out our contact form and we'll respond within 2 hours!",
+    contact: "You can reach us at: 📧 info@Intellinex.tech | 📞 +19 (7065707898) Intellinex | 🏢 123 Tech Plaza, New Delhi, IN. Or fill out our contact form and we'll respond within 2 hours!",
     pricing: "We offer flexible pricing models including monthly subscriptions, project-based, and enterprise contracts. Contact our sales team for a custom quote tailored to your needs and budget.",
     support: "We provide 24/7 support through phone, email, chat, and our dedicated client portal. Our average response time is under 15 minutes for critical issues."
   },
